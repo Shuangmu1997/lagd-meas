@@ -270,3 +270,4 @@ Xillinx/Zedboard.
   `SHIFT_BITS` / mode accordingly.
 - non-Xillybus / non-Zedboard platforms without replacing the FIFO front-end
   (and note Xillybus requires its own IP/license).
+
